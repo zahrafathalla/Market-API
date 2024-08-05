@@ -1,0 +1,12 @@
+C:\Users\almagd\source\repos\Market.Solustion\Market.Core\bin\Debug\net6.0\Market.Core.deps.json
+C:\Users\almagd\source\repos\Market.Solustion\Market.Core\bin\Debug\net6.0\Market.Core.dll
+C:\Users\almagd\source\repos\Market.Solustion\Market.Core\bin\Debug\net6.0\Market.Core.pdb
+C:\Users\almagd\source\repos\Market.Solustion\Market.Core\obj\Debug\net6.0\Market.Core.csproj.AssemblyReference.cache
+C:\Users\almagd\source\repos\Market.Solustion\Market.Core\obj\Debug\net6.0\Market.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almagd\source\repos\Market.Solustion\Market.Core\obj\Debug\net6.0\Market.Core.AssemblyInfoInputs.cache
+C:\Users\almagd\source\repos\Market.Solustion\Market.Core\obj\Debug\net6.0\Market.Core.AssemblyInfo.cs
+C:\Users\almagd\source\repos\Market.Solustion\Market.Core\obj\Debug\net6.0\Market.Core.csproj.CoreCompileInputs.cache
+C:\Users\almagd\source\repos\Market.Solustion\Market.Core\obj\Debug\net6.0\Market.Core.dll
+C:\Users\almagd\source\repos\Market.Solustion\Market.Core\obj\Debug\net6.0\refint\Market.Core.dll
+C:\Users\almagd\source\repos\Market.Solustion\Market.Core\obj\Debug\net6.0\Market.Core.pdb
+C:\Users\almagd\source\repos\Market.Solustion\Market.Core\obj\Debug\net6.0\ref\Market.Core.dll

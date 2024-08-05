@@ -1,0 +1,15 @@
+C:\Users\almagd\source\repos\Market.Solustion\Market.Service\bin\Debug\net6.0\Market.Service.deps.json
+C:\Users\almagd\source\repos\Market.Solustion\Market.Service\bin\Debug\net6.0\Market.Service.dll
+C:\Users\almagd\source\repos\Market.Solustion\Market.Service\bin\Debug\net6.0\Market.Service.pdb
+C:\Users\almagd\source\repos\Market.Solustion\Market.Service\bin\Debug\net6.0\Market.Core.dll
+C:\Users\almagd\source\repos\Market.Solustion\Market.Service\bin\Debug\net6.0\Market.Core.pdb
+C:\Users\almagd\source\repos\Market.Solustion\Market.Service\obj\Debug\net6.0\Market.Service.csproj.AssemblyReference.cache
+C:\Users\almagd\source\repos\Market.Solustion\Market.Service\obj\Debug\net6.0\Market.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almagd\source\repos\Market.Solustion\Market.Service\obj\Debug\net6.0\Market.Service.AssemblyInfoInputs.cache
+C:\Users\almagd\source\repos\Market.Solustion\Market.Service\obj\Debug\net6.0\Market.Service.AssemblyInfo.cs
+C:\Users\almagd\source\repos\Market.Solustion\Market.Service\obj\Debug\net6.0\Market.Service.csproj.CoreCompileInputs.cache
+C:\Users\almagd\source\repos\Market.Solustion\Market.Service\obj\Debug\net6.0\Market.Service.csproj.CopyComplete
+C:\Users\almagd\source\repos\Market.Solustion\Market.Service\obj\Debug\net6.0\Market.Service.dll
+C:\Users\almagd\source\repos\Market.Solustion\Market.Service\obj\Debug\net6.0\refint\Market.Service.dll
+C:\Users\almagd\source\repos\Market.Solustion\Market.Service\obj\Debug\net6.0\Market.Service.pdb
+C:\Users\almagd\source\repos\Market.Solustion\Market.Service\obj\Debug\net6.0\ref\Market.Service.dll

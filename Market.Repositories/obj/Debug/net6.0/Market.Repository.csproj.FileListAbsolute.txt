@@ -1,0 +1,17 @@
+C:\Users\almagd\source\repos\Market.Solustion\Market.Repositories\bin\Debug\net6.0\Market.Repository.deps.json
+C:\Users\almagd\source\repos\Market.Solustion\Market.Repositories\bin\Debug\net6.0\Market.Repository.runtimeconfig.json
+C:\Users\almagd\source\repos\Market.Solustion\Market.Repositories\bin\Debug\net6.0\Market.Repository.dll
+C:\Users\almagd\source\repos\Market.Solustion\Market.Repositories\bin\Debug\net6.0\Market.Repository.pdb
+C:\Users\almagd\source\repos\Market.Solustion\Market.Repositories\bin\Debug\net6.0\Market.Core.dll
+C:\Users\almagd\source\repos\Market.Solustion\Market.Repositories\bin\Debug\net6.0\Market.Core.pdb
+C:\Users\almagd\source\repos\Market.Solustion\Market.Repositories\obj\Debug\net6.0\Market.Repository.csproj.AssemblyReference.cache
+C:\Users\almagd\source\repos\Market.Solustion\Market.Repositories\obj\Debug\net6.0\Market.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almagd\source\repos\Market.Solustion\Market.Repositories\obj\Debug\net6.0\Market.Repository.AssemblyInfoInputs.cache
+C:\Users\almagd\source\repos\Market.Solustion\Market.Repositories\obj\Debug\net6.0\Market.Repository.AssemblyInfo.cs
+C:\Users\almagd\source\repos\Market.Solustion\Market.Repositories\obj\Debug\net6.0\Market.Repository.csproj.CoreCompileInputs.cache
+C:\Users\almagd\source\repos\Market.Solustion\Market.Repositories\obj\Debug\net6.0\Market.Repository.csproj.CopyComplete
+C:\Users\almagd\source\repos\Market.Solustion\Market.Repositories\obj\Debug\net6.0\Market.Repository.dll
+C:\Users\almagd\source\repos\Market.Solustion\Market.Repositories\obj\Debug\net6.0\refint\Market.Repository.dll
+C:\Users\almagd\source\repos\Market.Solustion\Market.Repositories\obj\Debug\net6.0\Market.Repository.pdb
+C:\Users\almagd\source\repos\Market.Solustion\Market.Repositories\obj\Debug\net6.0\Market.Repository.genruntimeconfig.cache
+C:\Users\almagd\source\repos\Market.Solustion\Market.Repositories\obj\Debug\net6.0\ref\Market.Repository.dll
